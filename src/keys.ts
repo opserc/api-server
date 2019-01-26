@@ -1,10 +1,10 @@
 export default {
 
     database: {
-        host: 'localhost',
-        user: 'root',
-        password: '',
-        database: 'coop'
+        host: 'mysql.zz.com.ve',
+        user: 'opserc',
+        password: 'Madrid17',
+        database: 'opsercj'
     }
 
 }
